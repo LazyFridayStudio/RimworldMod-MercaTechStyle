@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <StyleCategoryDef>
+        <defName>MercaTech</defName>
+        <label>MercaTech</label>
+        <iconPath>UI/StyleCategories/MercaTech</iconPath>
+        <thingDefStyles>
+            <!--tables-->
+            <li>
+                <thingDef>Table1x2c</thingDef>
+                <styleDef>MercaTech_Table1x2c</styleDef>
+            </li>
+            <li>
+                <thingDef>Table2x2c</thingDef>
+                <styleDef>MercaTech_Table2x2c</styleDef>
+            </li>
+            <li>
+                <thingDef>Table3x3c</thingDef>
+                <styleDef>MercaTech_Table3x3c</styleDef>
+            </li>
+            <li>
+                <thingDef>Table2x4c</thingDef>
+                <styleDef>MercaTech_Table2x4c</styleDef>
+            </li>
+        </thingDefStyles>
+    </StyleCategoryDef>
+</Defs>

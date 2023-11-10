@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <!--tables-->
+    <ThingStyleDef ParentName="IdeoTableStyleBase">
+        <defName>MercaTech_Table1x2c</defName>
+        <graphicData>
+            <texPath>Things/Building/BuildingStyles/Tables/Table1x2</texPath>
+            <drawSize>(3,4)</drawSize>
+        </graphicData>
+    </ThingStyleDef>
+
+    <ThingStyleDef ParentName="IdeoTableStyleBase">
+        <defName>MercaTech_Table2x2c</defName>
+        <graphicData>
+            <texPath>Things/Building/BuildingStyles/Tables/Table2x2</texPath>
+            <drawSize>(4,4)</drawSize>
+        </graphicData>
+    </ThingStyleDef>
+
+    <ThingStyleDef ParentName="IdeoTableStyleBase">
+        <defName>MercaTech_Table2x4c</defName>
+        <graphicData>
+            <texPath>Things/Building/BuildingStyles/Tables/Table2x4</texPath>
+            <drawSize>(4,6)</drawSize>
+        </graphicData>
+    </ThingStyleDef>
+
+    <ThingStyleDef ParentName="IdeoTableStyleBase">
+        <defName>MercaTech_Table3x3c</defName>
+        <graphicData>
+            <texPath>Things/Building/BuildingStyles/Tables/Table3x3</texPath>
+            <drawSize>(5,5)</drawSize>
+        </graphicData>
+    </ThingStyleDef>
+</Defs>
