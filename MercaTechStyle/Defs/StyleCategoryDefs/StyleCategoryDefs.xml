@@ -6,10 +6,10 @@
         <iconPath>UI/StyleCategories/MercaTech</iconPath>
         <thingDefStyles>
             <!--chairs-->
-            <!--            <li>-->
-            <!--                <thingDef>DiningChair</thingDef>-->
-            <!--                <styleDef>MercaTech_DiningChair</styleDef>-->
-            <!--            </li>-->
+            <li>
+                <thingDef>DiningChair</thingDef>
+                <styleDef>MercaTech_DiningChair</styleDef>
+            </li>
             <!--            <li>-->
             <!--                <thingDef>Armchair</thingDef>-->
             <!--                <styleDef>MercaTech_Armchair</styleDef>-->
