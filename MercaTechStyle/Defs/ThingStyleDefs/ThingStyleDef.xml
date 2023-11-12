@@ -41,17 +41,17 @@
     </ThingStyleDef>
 
     <!--ritual-seats-->
-<!--    <ThingStyleDef>-->
-<!--        <defName>Draconic_Pew</defName>-->
-<!--        <graphicData>-->
-<!--            <texPath>Things/Building/BuildingStyles/Draconic/Pew/DraconicPew</texPath>-->
-<!--            <graphicClass>Graphic_Multi</graphicClass>-->
-<!--            <drawSize>(3,1)</drawSize>-->
-<!--            <shadowData>-->
-<!--                <volume>(0.8, 1, 0.8)</volume>-->
-<!--            </shadowData>-->
-<!--        </graphicData>-->
-<!--    </ThingStyleDef>-->
+    <!--    <ThingStyleDef>-->
+    <!--        <defName>Draconic_Pew</defName>-->
+    <!--        <graphicData>-->
+    <!--            <texPath>Things/Building/BuildingStyles/Draconic/Pew/DraconicPew</texPath>-->
+    <!--            <graphicClass>Graphic_Multi</graphicClass>-->
+    <!--            <drawSize>(3,1)</drawSize>-->
+    <!--            <shadowData>-->
+    <!--                <volume>(0.8, 1, 0.8)</volume>-->
+    <!--            </shadowData>-->
+    <!--        </graphicData>-->
+    <!--    </ThingStyleDef>-->
 
     <ThingStyleDef>
         <defName>MercaTech_KneelSheet</defName>
@@ -62,15 +62,15 @@
         </graphicData>
     </ThingStyleDef>
 
-<!--    <ThingStyleDef>-->
-<!--        <defName>Draconic_KneelPillow</defName>-->
-<!--        <graphicData>-->
-<!--            <texPath>Things/Building/BuildingStyles/Draconic/KneelPillow/DraconicKneelPillow</texPath>-->
-<!--            <graphicClass>Graphic_Multi</graphicClass>-->
-<!--            <drawSize>(1,1)</drawSize>-->
-<!--        </graphicData>-->
-<!--    </ThingStyleDef>-->
-    
+    <ThingStyleDef>
+        <defName>MercaTech_KneelPillow</defName>
+        <graphicData>
+            <texPath>Things/Building/BuildingStyles/KneelPillow/KneelPillow</texPath>
+            <graphicClass>Graphic_Multi</graphicClass>
+            <drawSize>(1,1)</drawSize>
+        </graphicData>
+    </ThingStyleDef>
+
     <!--tables-->
     <ThingStyleDef ParentName="IdeoTableStyleBase">
         <defName>MercaTech_Table1x2c</defName>

@@ -26,7 +26,7 @@
             </li>
             <li>
                 <thingDef>KneelPillow</thingDef>
-                <styleDef>Draconic_KneelPillow</styleDef>
+                <styleDef>MercaTech_KneelPillow</styleDef>
             </li>
             <li>
                 <thingDef>KneelSheet</thingDef>
