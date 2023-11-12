@@ -19,6 +19,21 @@
                 <styleDef>MercaTech_Stool</styleDef>
             </li>
 
+            <!--ritual-seats-->
+            <li>
+                <thingDef>Pew</thingDef>
+                <styleDef>Draconic_Pew</styleDef>
+            </li>
+            <li>
+                <thingDef>KneelPillow</thingDef>
+                <styleDef>Draconic_KneelPillow</styleDef>
+            </li>
+            <li>
+                <thingDef>KneelSheet</thingDef>
+                <styleDef>MercaTech_KneelSheet</styleDef>
+            </li>
+
+
             <!--tables-->
             <li>
                 <thingDef>Table1x2c</thingDef>
